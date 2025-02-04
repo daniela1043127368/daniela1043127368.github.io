@@ -1,7 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
     // Usuario y contraseña predefinidos
     const usuarioValido = "admin";
-    const contraseñaValida = "123456";
+    const contraseñaValida = "654321";
 
     // Obtener el formulario y el mensaje
     const form = document.getElementById("loginForm");
